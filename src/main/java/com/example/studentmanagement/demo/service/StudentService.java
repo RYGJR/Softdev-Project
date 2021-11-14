@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.data.domain.Page;
 
-import com.example.studentmanagement.demo.model.Student
+import com.example.studentmanagement.demo.model.Student;
 
 public interface StudentService {
     List<Student> getAllStudent();
